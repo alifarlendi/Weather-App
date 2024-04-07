@@ -39,3 +39,9 @@ body {
   margin-right: 16px;
   font-size: 18px;
 }
+
+.search button {
+  border: 0;
+  outline: 0;
+  background: #ebfffc;
+}
